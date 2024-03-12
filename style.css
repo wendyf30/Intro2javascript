@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  body { 
+    background-color:#cbc2eb;}
+button{
+  font-family: cursive
+  font-size: 20px;
+  color: pink;
+  background-color: #f5f5f5;
+  
+}
+
+h1{
+  color: #ffffff
+}
+h2{
+  color: #f6f4f5;
+}
+h3{
+  color: #ffffff;
+}
+h4{ color: #ffffff;
+  }
+h5{ color: #f8f7f8;
+  }
+h6{
+  color: #fbf9fb;
+}
